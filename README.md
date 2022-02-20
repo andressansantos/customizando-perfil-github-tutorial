@@ -58,7 +58,7 @@ Categorias
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressansantos&layout=compact&theme=tokyonight"/>
 ```
   
- Não esqueça de mudar no campo <b>username</b> para o nome do seu usuário de Githube. Na ultima parte, de Theme ao final do código, poderá escolher o que 
+ Não esqueça de mudar no campo <b>username</b> para o nome do seu usuário de GitHub. Na ultima parte, de Theme ao final do código, poderá escolher o que 
  desejar na pagina do [GitStats](https://github.com/anuraghazra/github-readme-stats#themes).
     
  E esse será o resultado:
@@ -73,7 +73,7 @@ Categorias
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
 ```
 
-Nesse código, a primeira parte é o nome da rede, a segunda parte o link no post do Dev.To e a terceira parte o link da sua rede. Nesse meu caso, foi da comunidade no Discor do Ehmuitodrama. Para ter acesso a todos os Badges de redes sociais, acesse ao [post completo com mais de 150 Badges no Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk)
+Nesse código, a primeira parte é o nome da rede, a segunda parte o link no post do Dev.To e a terceira parte o link da sua rede. Nesse meu caso, foi da comunidade no Discord do Ehmuitodrama. Para ter acesso a todos os Badges de redes sociais, acesse ao [post completo com mais de 150 Badges no Dev.to](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 E esse será o resultado ao acabar e colocar o link e verificando no preview.
     
@@ -91,6 +91,11 @@ No código passado, colocamos um nome, além de dimensões utilizando a tag <b>i
 E o resultado será esse:
 
 <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+---
+
+- Veja o resultado completo de como ficará no meu perfil, [clicando aqui!](https://github.com/andressansantos)
+- Acesse ao [vídeo tutorial no Youtube](https://youtu.be/vfcXPpP_BeM)
 
 ---
 
